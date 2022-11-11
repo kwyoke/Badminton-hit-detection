@@ -59,7 +59,7 @@ Check out these videos for a demonstration of various qualities:
     ![pro/test_match1/1_05_02.mp4 domain](https://youtu.be/Sga5BMbK9Qk)
 
 ## Usage
-1. Rally videos and their ground-truth annotations are provided under datasets/ in pro.zip, am_singles.zip, am_doubles.zip, or can be downloaded [here](https://drive.google.com/drive/folders/13Ja-lZCNNbWelWcb3oP4L4if8khqTfUo?usp=sharing)
+1. Rally videos and their ground-truth annotations are provided under datasets/ in pro.zip, am_singles.zip, am_doubles.zip, or can be downloaded ![here](https://drive.google.com/drive/folders/13Ja-lZCNNbWelWcb3oP4L4if8khqTfUo?usp=sharing)
 2. Manual annotation tools are provided under datasets/ in the scripts label_tool_bbox.py, label_toolV2.py
 3. Semi-automatic annotation pipeline for pose and shuttlecock coordinates are in annotation_pipeline/
 3. Notebooks for organising datasets into input features and observing dataset statistics can be found in annotation_pipeline/organise_input_features.ipynb and annotation_pipeline/dataset_stats.ipynb
