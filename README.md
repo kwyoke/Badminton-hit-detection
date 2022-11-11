@@ -12,13 +12,13 @@ In this project, we develop a hit detection algorithm to detect hits in generic 
 Below, we show a few demos of our proposed hit detection algorithm on videos of different camera angles, players of different skill levels, singles and doubles videos.
 
 ### Professional video:
-[!['pro/test_match1/1_05_02'](https://youtu.be/Sga5BMbK9Qk/default.jpg)](https://youtu.be/Sga5BMbK9Qk)
+[!['pro/test_match1/1_05_02'](test_match1.png)](https://youtu.be/Sga5BMbK9Qk)
 
 ### Amateur singles video:
-[!['am_singles/match24/1_05_05'](https://youtu.be/WpQMvr3_JuY/default.jpg)](https://youtu.be/WpQMvr3_JuY)
+[!['am_singles/match24/1_05_05'](match24.png)](https://youtu.be/WpQMvr3_JuY)
 
 ### Amateur doubles video:
-[!['am_doubles/match_clementi/doubles5'](https://youtu.be/WpQMvr3_JuY/default.jpg)](https://youtu.be/79Vh_RI03KY)
+[!['am_doubles/match_clementi/doubles5'](match_clementi.png)](https://youtu.be/79Vh_RI03KY)
 
 ## Datasets
 We prepare three sets of annotated matches: Professional singles, amateur singles, amateur doubles. They are available in this [google drive link](https://drive.google.com/drive/folders/13Ja-lZCNNbWelWcb3oP4L4if8khqTfUo?usp=sharing) and should be placed under the datasets/ directory.
