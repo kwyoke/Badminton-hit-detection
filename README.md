@@ -11,14 +11,23 @@ In this project, we develop a hit detection algorithm to detect hits in generic 
 ## Demo
 Below, we show a few demos of our proposed hit detection algorithm on videos of different camera angles, players of different skill levels, singles and doubles videos.
 
-### Professional video:
+### Hit detection
+#### Professional video:
 [!['pro/test_match1/1_05_02'](pics/test_match1.png)](https://youtu.be/Sga5BMbK9Qk)
 
-### Amateur singles video:
+#### Amateur singles video:
 [!['am_singles/match24/1_05_05'](pics/match24.png)](https://youtu.be/WpQMvr3_JuY)
 
-### Amateur doubles video:
+#### Amateur doubles video:
 [!['am_doubles/match_clementi/doubles5'](pics/match_clementi.png)](https://youtu.be/79Vh_RI03KY)
+
+### Semi-automatic annotation pipeline:
+
+#### Pose tracking
+[![Annotated pose sample](pics/posetrack.png)](https://youtu.be/lyuysTWBdNc)
+
+#### Shuttle trajectory checking
+[![Annotated shuttlecock sample](pics/shuttletrack.png)](https://youtu.be/4KA-XwI0Fq0)
 
 ## Datasets
 We prepare three sets of annotated matches: Professional singles, amateur singles, amateur doubles. They are available in this [google drive link](https://drive.google.com/drive/folders/13Ja-lZCNNbWelWcb3oP4L4if8khqTfUo?usp=sharing) and should be placed under the datasets/ directory.
