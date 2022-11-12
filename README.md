@@ -26,7 +26,7 @@ Below, we show a few demos of our proposed hit detection algorithm on videos of 
 #### Pose tracking
 [![Annotated pose sample](pics/posetrack.png)](https://youtu.be/lyuysTWBdNc)
 
-#### Shuttle trajectory checking
+#### Shuttle trajectory tracking
 [![Annotated shuttlecock sample](pics/shuttletrack.png)](https://youtu.be/4KA-XwI0Fq0)
 
 ## Datasets
